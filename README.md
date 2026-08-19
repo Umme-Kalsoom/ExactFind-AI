@@ -109,4 +109,5 @@ For faster CPU inference:
 python app.py --dino-model dinov2_vits14_reg --scene-model yolo11n.pt
 ```
 
-Keep the default ViT-B model when your main priority is accuracy
+Keep the default ViT-B model when your main priority is accuracy. <img width="1243" height="922" alt="Screenshot_2026-08-18_23_24_43" src="https://github.com/user-attachments/assets/ed01b24e-1163-4df8-b019-cb24a1ad04ba" />
+
